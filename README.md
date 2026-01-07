@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Steve, a tech enthusiast and an IT professional  👋
 
 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
