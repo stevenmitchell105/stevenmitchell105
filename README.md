@@ -1,8 +1,7 @@
 ## Hi I'm Steven, a tech enthusiast and an IT professional  👋
 
 <h2>🖥️Information Technology Projects🖥️</h2>
-- <b>Virtual Private Network</b>
-  - [VPN Setup in Virtual Machine ]()
+[osTicket: Prerequisites and Installation]()
 
  
 <h2>🤳Connect with me:</h2>
