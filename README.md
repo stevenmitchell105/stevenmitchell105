@@ -1,7 +1,10 @@
 ## Hi I'm Steven, a tech enthusiast and an IT professional  👋
 
 <h2>🖥️Information Technology Projects🖥️</h2>
-[osTicket: Prerequisites and Installation](https://github.com/stevenmitchell105/osticket-prereqs)
+- <b>
+ - [osTicket: Prerequisites and Installation](https://github.com/stevenmitchell105/osticket-prereqs)
+</b>
+
 
  
 <h2>🤳Connect with me:</h2>
